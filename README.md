@@ -1,8 +1,8 @@
 #test
 Libraries use -
-Beautifulsoup4
-requests
-openpyxl
-smtplib
-datetime
-time
+Beautifulsoup4,
+requests,
+openpyxl,
+smtplib,
+datetime,
+time.
